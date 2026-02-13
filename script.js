@@ -277,3 +277,18 @@ form.addEventListener("submit", (e) => {
     errorText.innerText = "";
   }, 1200);
 });
+/* =========================
+   TOGGLE LIBRARY SECTION
+========================= */
+
+const libraryHeader = document.querySelector(".library-header");
+
+if(libraryHeader){
+  libraryHeader.addEventListener("click", () => {
+
+    document.querySelectorAll(".library-card").forEach(card => {
+      card.classList.toggle("hidden");
+    });
+
+  });
+}
