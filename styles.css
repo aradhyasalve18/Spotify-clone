@@ -595,3 +595,7 @@ section h2 {
   color:#ff4c4c;
   margin-top:5px;
   }
+.hidden{
+  display:none !important;
+}
+
