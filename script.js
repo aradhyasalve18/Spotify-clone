@@ -14,7 +14,7 @@ const songMap = {
 
   /* ===== TRENDING ===== */
 
-  "Blinding Lights|The Weeknd": "songs/The Weeknd - Blinding Lights (Official Audio).mp3",
+  "Blinding Lights|The Weeknd": "The Weeknd - Blinding Lights (Official Audio).mp3",
   "FE!N|Travis Scott": "songs/Travis Scott - FEIN.mp3",
   "High Hopes|Panic! at the Disco": "songs/Panic At The Disco - High Hopes.mp3",
   "Enemy|Imagine Dragons": "songs/Imagine Dragons - Enemy.mp3",
