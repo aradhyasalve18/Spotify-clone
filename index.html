@@ -144,5 +144,36 @@
 
     </main>
   </div>
+  <!-- ===== Bottom Music Player ===== -->
+<div class="music-player">
+
+  <div class="player-left">
+    <img id="player-cover" src="logo.png">
+    <div>
+      <div id="player-title">Select a song</div>
+      <div id="player-artist">—</div>
+    </div>
+  </div>
+
+  <div class="player-center">
+    <div class="controls">
+      <button id="prev">⏮</button>
+      <button id="play">▶</button>
+      <button id="next">⏭</button>
+    </div>
+
+    <div class="progress-container">
+      <span id="current-time">0:00</span>
+      <input type="range" id="progress" value="0" min="0" max="100">
+      <span id="duration">0:00</span>
+    </div>
+  </div>
+
+  <div class="player-right">
+    <input type="range" id="volume" min="0" max="1" step="0.01" value="1">
+  </div>
+
+</div>
+  <script src="./script.js"></script>
 </body>
-</html>
+                                       </html>
