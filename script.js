@@ -21,7 +21,7 @@ const songMap = {
   "Believer|Imagine Dragons": "songs/Imagine Dragons - Believer.mp3",
   "Thunder|Imagine Dragons": "songs/Imagine Dragons - Thunder.mp3",
   "Bones|Imagine Dragons": "songs/Imagine Dragons - Bones.mp3",
-  "Night Changes|One Direction": "songs/One Direction - Night Changes.mp3",
+  "Night Changes|One Direction": "One Direction - Night Changes (Audio).mp3",
   "Sunsetz|Cigarettes After Sex": "songs/Cigarettes After Sex - Sunsetz.mp3",
   "Apocalypse|Cigarettes After Sex": "songs/Cigarettes After Sex - Apocalypse.mp3",
 
